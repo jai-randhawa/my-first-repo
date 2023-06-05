@@ -1,2 +1,7 @@
 this is a test demo gitn repo
+<<<<<<< Updated upstream
 This is got the git stash and git pull 
+=======
+
+git stash
+>>>>>>> Stashed changes
