@@ -4,4 +4,7 @@ This is got the git stash and git pull
 =======
 
 git stash
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
